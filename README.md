@@ -1,0 +1,1 @@
+# Small-Object-Detection-in-Satellite-Imagery-using-YOLOv8
